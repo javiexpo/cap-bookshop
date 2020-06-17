@@ -1,0 +1,124 @@
+﻿Product;ProductID;Supplier;Dimensions;Weight;Price
+Notebook Basic 15;HT-1000;Very Best Screens;30 x 18 x 3 cm;4.2 KG;956 EUR
+Notebook Basic 17;HT-1001;Very Best Screens;29 x 17 x 3.1 cm;4.5 KG;1249 EUR
+Notebook Basic 18;HT-1002;Very Best Screens;28 x 19 x 2.5 cm;4.2 KG;1570 EUR
+Notebook Basic 19;HT-1003;Smartcards;32 x 21 x 4 cm;4.2 KG;1650 EUR
+ITelO Vault;HT-1007;Technocom;32 x 22 x 3 cm;0.2 KG;299 EUR
+Notebook Professional 15;HT-1010;Very Best Screens;33 x 20 x 3 cm;4.3 KG;1999 EUR
+Notebook Professional 17;HT-1011;Very Best Screens;33 x 23 x 2 cm;4.1 KG;2299 EUR
+ITelO Vault Net;HT-1020;Technocom;10 x 1.8 x 17 cm;0.16 KG;459 EUR
+ITelO Vault SAT;HT-1021;Technocom;11 x 1.7 x 18 cm;0.18 KG;149 EUR
+Comfort Easy;HT-1022;Technocom;84 x 1.5 x 14 cm;0.2 KG;1679 EUR
+Comfort Senior;HT-1023;Technocom;80 x 1.6 x 13 cm;0.8 KG;512 EUR
+Ergo Screen E-I;HT-1030;Very Best Screens;37 x 12 x 36 cm;21 KG;230 EUR
+Ergo Screen E-II;HT-1031;Very Best Screens;40.8 x 19 x 43 cm;21 KG;285 EUR
+Ergo Screen E-III;HT-1032;Very Best Screens;40.8 x 19 x 43 cm;21 KG;345 EUR
+Flat Basic;HT-1035;Very Best Screens;39 x 20 x 41 cm;14 KG;399 EUR
+Flat Future;HT-1036;Very Best Screens;45 x 26 x 46 cm;15 KG;430 EUR
+Flat XL;HT-1037;Very Best Screens;54.5 x 22.1 x 39.1 cm;17 KG;1230 EUR
+Laser Professional Eco;HT-1040;Alpha Printers;51 x 46 x 30 cm;32 KG;830 EUR
+Laser Basic;HT-1041;Alpha Printers;48 x 42 x 26 cm;23 KG;490 EUR
+Laser Allround;HT-1042;Alpha Printers;53 x 50 x 65 cm;17 KG;349 EUR
+Ultra Jet Super Color;HT-1050;Alpha Printers;41 x 41 x 28 cm;3 KG;139 EUR
+Ultra Jet Mobile;HT-1051;Printer for All;46 x 32 x 25 cm;1.9 KG;99 EUR
+Ultra Jet Super Highspeed;HT-1052;Printer for All;41 x 41 x 28 cm;18 KG;170 EUR
+Multi Print;HT-1055;Printer for All;55 x 45 x 29 cm;6.3 KG;99 EUR
+Multi Color;HT-1056;Printer for All;51 x 41.3 x 22 cm;4.3 KG;119 EUR
+Cordless Mouse;HT-1060;Oxynum;6 x 14.5 x 3.5 cm;0.09 KG;9 EUR
+Speed Mouse;HT-1061;Oxynum;7 x 15 x 3.1 cm;0.09 KG;7 EUR
+Track Mouse;HT-1062;Oxynum;3 x 7 x 4 cm;0.03 KG;11 EUR
+Ergonomic Keyboard;HT-1063;Oxynum;50 x 21 x 3.5 cm;2.1 KG;14 EUR
+Internet Keyboard;HT-1064;Oxynum;52 x 25 x 3 cm;1.8 KG;16 EUR
+Media Keyboard;HT-1065;Oxynum;51.4 x 23 x 4 cm;2.3 KG;26 EUR
+Mousepad;HT-1066;Oxynum;15 x 6 x 0.2 cm;80 G;6.99 EUR
+Ergo Mousepad;HT-1067;Oxynum;15 x 6 x 0.2 cm;80 G;8.99 EUR
+Designer Mousepad;HT-1068;Fasttech;24 x 24 x 0.6 cm;90 G;12.99 EUR
+Universal card reader;HT-1069;Fasttech;6 x 6 x 3 cm;45 G;14 EUR
+Proctra X;HT-1070;Ultrasonic United;22 x 35 x 17 cm;0.255 KG;70.9 EUR
+Gladiator MX;HT-1071;Ultrasonic United;22 x 35 x 17 cm;0.3 KG;81.7 EUR
+Hurricane GX;HT-1072;Ultrasonic United;22 x 35 x 17 cm;0.4 KG;101.2 EUR
+Hurricane GX/LN;HT-1073;Smartcards;22 x 35 x 17 cm;0.4 KG;139.99 EUR
+Photo Scan;HT-1080;Printer for All;34 x 48 x 5 cm;2.3 KG;129 EUR
+Power Scan;HT-1081;Printer for All;31 x 43 x 7 cm;2.4 KG;89 EUR
+Jet Scan Professional;HT-1082;Printer for All;33 x 41 x 12 cm;3.2 KG;169 EUR
+Jet Scan Professional;HT-1083;Printer for All;35 x 40 x 10 cm;3.2 KG;189 EUR
+Copymaster;HT-1085;Alpha Printers;45 x 42 x 22 cm;23.2 KG;1499 EUR
+Surround Sound;HT-1090;Speaker Experts;12 x 10 x 16 cm;3 KG;39 EUR
+Blaster Extreme;HT-1091;Speaker Experts;13 x 11 x 17.5 cm;1.4 KG;26 EUR
+Sound Booster;HT-1092;Speaker Experts;12.4 x 10.4 x 18.1 cm;2.1 KG;45 EUR
+Smart Office;HT-1100;Technocom;15 x 6.5 x 2.1 cm;1.2 KG;89.9 EUR
+Smart Design;HT-1101;Technocom;14 x 6.7 x 24 cm;0.8 KG;79.9 EUR
+Smart Network;HT-1102;Technocom;16 x 6 x 27 cm;0.8 KG;69 EUR
+Smart Multimedia;HT-1103;Technocom;11 x 3.4 x 22 cm;0.8 KG;77 EUR
+Smart Games;HT-1104;Technocom;10 x 3 x 30 cm;1.1 KG;55 EUR
+Smart Internet Antivirus;HT-1105;Brainsoft;16 x 4 x 21 cm;0.7 KG;29 EUR
+Smart Firewall;HT-1106;Brainsoft;17.9 x 4.2 x 23.1 cm;0.9 KG;34 EUR
+Smart Money;HT-1107;Brainsoft;12 x 1.5 x 19 cm;0.5 KG;29.9 EUR
+PC Lock;HT-1110;Red Point Stores;20 x 8 x 4.3 cm;0.03 KG;8.9 EUR
+Notebook Lock;HT-1111;Red Point Stores;31 x 9 x 7 cm;0.02 KG;6.9 EUR
+Web cam reality;HT-1112;Red Point Stores;9 x 8.2 x 1.3 cm;0.075 KG;39 EUR
+Screen clean;HT-1113;Red Point Stores;2 x 2 x 0.1 cm;0.05 KG;2.3 EUR
+Fabric bag professional;HT-1114;Red Point Stores;42 x 32 x 7 cm;1.8 KG;31 EUR
+Wireless DSL Router;HT-1115;Red Point Stores;19.3 x 18 x 5 cm;0.45 KG;49 EUR
+Wireless DSL Router / Repeater;HT-1116;Red Point Stores;19.3 x 18 x 5 cm;0.45 KG;59 EUR
+Wireless DSL Router / Repeater and Print Server;HT-1117;Technocom;19.3 x 18 x 5 cm;0.45 KG;69 EUR
+USB Stick;HT-1118;Technocom;1.5 x 8.7 x 1.2 cm;0.015 KG;35 EUR
+"Cordless Bluetooth Keyboard, english international";HT-1120;Technocom;51.4 x 23 x 4 cm;1 KG;29 EUR
+Flat XXL;HT-1137;Technocom;54 x 22 x 38 cm;18 KG;1430 EUR
+Pocket Mouse;HT-1138;Technocom;0.3 x 0.5 x 1 cm;0.02 KG;23 EUR
+PC Power Station;HT-1210;Technocom;28 x 31 x 43 cm;2.3 KG;2399 EUR
+Server Basic;HT-1500;Technocom;34 x 35 x 23 cm;18 KG;5000 EUR
+Server Professional;HT-1501;Technocom;29 x 30 x 27 cm;25 KG;15000 EUR
+Server Power Pro;HT-1502;Technocom;22 x 27.3 x 37 cm;35 KG;25000 EUR
+Flat Watch HD32;HT-6130;Very Best Screens;78 x 22.1 x 55 cm;2.6 KG;1459 EUR
+Flat Watch HD37;HT-6131;Very Best Screens;99.1 x 26 x 61 cm;2.2 KG;1199 EUR
+Flat Watch HD41;HT-6132;Very Best Screens;128 x 23 x 79.1 cm;1.8 KG;899 EUR
+Platinberry;HT-7030;Fasttech;8.1 x 13 x 12.1 cm;0.5 KG;549 EUR
+Goldberry;HT-7020;Fasttech;8.1 x 13 x 12.1 cm;0.5 KG;549 EUR
+Silverberry;HT-7010;Fasttech;8.1 x 13 x 12.1 cm;0.5 KG;549 EUR
+Copperberry;HT-7000;Fasttech;8.1 x 13 x 12.1 cm;0.5 KG;549 EUR
+Lovely Sound 5.1 Wireless;HT-1095;Fasttech;24 x 19 x 23 cm;80 G;49 EUR
+Lovely Sound 5.1;HT-1096;Fasttech;25 x 17 x 19 cm;130 G;39 EUR
+Lovely Sound Stereo;HT-1097;Fasttech;21.3 x 2.4 x 19.7 cm;60 G;29 EUR
+Power Pro Player 80;HT-6123;Fasttech;4 x 6 x 0.8 cm;267 G;299 EUR
+Power Pro Player 40;HT-6122;Fasttech;5.1 x 8 x 9.2 cm;266 G;167 EUR
+ITelo Jog-Mate;HT-6121;Fasttech;5.1 x 8 x 9.2 cm;134 G;63 EUR
+ITelo MusicStick;HT-6120;Fasttech;1.5 x 6 x 1 cm;134 G;45 EUR
+Record Movie;HT-6111;Fasttech;38 x 26 x 6.2 cm;3.1 KG;288 EUR
+Play Movie;HT-6110;Fasttech;37 x 24 x 6 cm;2.4 KG;130 EUR
+Beam Breaker B-3;HT-6102;Technocom;30.4 x 23.1 x 23 cm;2.5 KG;889 EUR
+Beam Breaker B-2;HT-6101;Technocom;30.4 x 23.1 x 23 cm;2 KG;679 EUR
+"Portable DVD Player with 9"" LCD Monitor";HT-2002;Technocom;21 x 16.5 x 14 cm;0.72 KG;853.99 EUR
+Beam Breaker B-1;HT-6100;Titanium;30.4 x 23.1 x 23 cm;1.7 KG;469 EUR
+Removable CD/DVD Laser Labels;HT-2027;Titanium;5.5 x 2 x 2 cm;0.15 KG;8.99 EUR
+Audio/Video Cable Kit - 4m;HT-2026;Titanium;21 x 10.2 x 13 cm;0.2 KG;29.99 EUR
+CD/DVD case: 264 sleeves;HT-2025;Titanium;13 x 13 x 20 cm;0.65 KG;44.99 EUR
+"10"" Portable DVD player";HT-2001;Titanium;24 x 19.5 x 29 cm;0.84 KG;449.99 EUR
+"7"" Widescreen Portable DVD Player w MP3";HT-2000;Titanium;21.4 x 19 x 27.6 cm;0.79 KG;249.99 EUR
+Gaming Monster Pro;HT-1603;Titanium;27 x 28 x 42 cm;6.8 KG;1700 EUR
+Gaming Monster;HT-1602;Titanium;26.5 x 34 x 47 cm;5.9 KG;1200 EUR
+Family PC Pro;HT-1601;Titanium;25 x 31.7 x 40.2 cm;5.3 KG;900 EUR
+Family PC Basic;HT-1600;Titanium;21.4 x 29 x 38 cm;4.8 KG;600 EUR
+Travel Adapter;HT-1119;Titanium;2 x 3.1 x 3.9 cm;88 G;79 EUR
+ITelO FlexTop I4000;HT-8000;Titanium;31 x 19 x 3.1 cm;4 KG;799 EUR
+ITelO FlexTop I6300c;HT-8001;Titanium;32 x 20 x 3.4 cm;4.2 KG;799 EUR
+ITelO FlexTop I9100;HT-8002;Titanium;38 x 21 x 4.1 cm;3.5 KG;1199 EUR
+ITelO FlexTop I9800;HT-8003;Titanium;48 x 31 x 4.5 cm;3.8 KG;1388 EUR
+Flyer;PF-1000;Titanium;46 x 30 x 3 cm;0.01 KG;0 EUR
+Maxi Tablet;HT-9999;Titanium;48 x 31 x 4.5 cm;3.8 KG;749 EUR
+Smartphone Beta;HT-9998;Titanium;48 x 31 x 4.5 cm;0.75 KG;30 EUR
+e-Book Reader ReadMe;HT-9997;Titanium;48 x 31 x 4.5 cm;3.8 KG;33 EUR
+Tablet Pouch;HT-9996;Titanium;25 x 40 x 4.5 cm;0.03 KG;20 EUR
+Smartphone Cover;HT-9995;Titanium;48 x 31 x 4.5 cm;0.02 KG;15 EUR
+Camcorder View;HT-9994;Ultrasonic United;48 x 31 x 27 cm;3.8 KG;1388 EUR
+Mini Tablet;HT-9993;Ultrasonic United;48 x 31 x 4.5 cm;3.8 KG;833 EUR
+Smartphone Alpha;HT-9992;Ultrasonic United;48 x 31 x 4.5 cm;0.75 KG;599 EUR
+Smartphone Leather Case;HT-9991;Ultrasonic United;48 x 31 x 4.5 cm;0.02 KG;25 EUR
+Astro Laptop 1516;HT-1251;Ultrasonic United;30 x 18 x 3 cm;4.2 KG;989 EUR
+Astro Phone 6;HT-1252;Ultrasonic United;8 x 6 x 1.5 cm;0.75 KG;649 EUR
+Benda Laptop 1408;HT-1253;Ultrasonic United;30 x 18 x 3 cm;4.2 KG;976 EUR
+Bending Screen 21HD;HT-1254;Ultrasonic United;37 x 12 x 36 cm;15 KG;250 EUR
+Broad Screen 22HD;HT-1255;Ultrasonic United;39 x 12 x 38 cm;16 KG;270 EUR
+Cerdik Phone 7;HT-1256;Ultrasonic United;9 x 15 x 1.5 cm;0.75 KG;549 EUR
+Cepat Tablet 10.5;HT-1257;Ultrasonic United;48 x 31 x 4.5 cm;2.8 KG;549 EUR
+Cepat Tablet 8;HT-1258;Ultrasonic United;38 x 21 x 3.5 cm;2.5 KG;529 EUR
