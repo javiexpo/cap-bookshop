@@ -8,12 +8,12 @@ namespace sap.capire.bookshop;
 
 //sap.capire.bookshop-Products.csv
 entity Products : managed {
-  key ProductID  : String;
-  Product    : String;
-  Supplier   : String;
-  Dimensions : String;
-  Weight     : String;
-  Price      : String;
+  key productID  : String;
+  product    : String;
+  supplier   : String;
+  dimensions : String;
+  weight     : String;
+  price      : String;
 }
 
 /* entity Products : managed {

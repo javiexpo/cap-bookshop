@@ -14,8 +14,42 @@
 			}
 		}
 	},
+	"sap.ui": {
+		"technology": "UI5",
+		"deviceTypes": {
+			"desktop": true,
+			"tablet": true,
+			"phone": true
+		}
+	},
 	"sap.ui5": {
+		"rootView": {
+			"viewName": "sap.m.sample.TableExport.Table",
+			"type": "XML",
+			"async": true
+		},
+		"dependencies": {
+			"libs": {
+				"sap.m": {},
+				"sap.ui.core": {},
+				"sap.ui.layout": {}
+			}
+		},
+		"contentDensities": {
+			"compact": true,
+			"cozy": true
+		},
 		"models" : {
+			"i18n": {
+				"type": "sap.ui.model.resource.ResourceModel",
+				"settings": {
+					"bundleName": "sap.m.sample.TableExport.i18n.i18n",
+					"supportedLocales": [
+						""
+					],
+					"fallbackLocale": ""
+				}
+			},
 			"" : {
 				"dataSource" : "admin",
 				"preload" : true,
@@ -25,16 +59,6 @@
 					"synchronizationMode" : "None",
 					"updateGroupId" : "UpdateGroup"
 				}
-			}
-		},
-		"rootView": {
-			"viewName": "sap.m.sample.TableExport.Table",
-			"type": "XML",
-			"async": true
-		},
-		"dependencies": {
-			"libs": {
-				"sap.ui.layout": {}
 			}
 		},
 		"config": {
